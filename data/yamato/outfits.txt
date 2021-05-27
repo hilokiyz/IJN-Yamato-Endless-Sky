@@ -47,7 +47,7 @@ outfit "Tactical Command Center Gen 5"
 	thumbnail
 	"mass" 120
 	"outfit space" 120
-	ramscoop 10
+	ramscoop 25
 	"tactical scan power" 100
 	"outfit scan power" 16
 	"outfit scan speed" 25
